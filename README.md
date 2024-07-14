@@ -69,5 +69,8 @@ To know your default shell:
     echo $SHELL
 
 
+
+
+
 ![Theme_Screenshot](https://github.com/user-attachments/assets/1393673b-effd-46ee-9fb2-c40d133894aa)
 
