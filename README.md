@@ -72,7 +72,7 @@ To know your default shell:
 ## Panel_Configuration
 -> Right click on panel and turn on "panel edit mode".
 
--> Then arrange the launchers and applets as per your liking.
+-> Then arrange the launchers and applets as per your liking & turn off "panel edit mode".
 
 -> Open Extensions application and click download.
 
