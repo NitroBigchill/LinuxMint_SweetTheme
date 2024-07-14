@@ -24,8 +24,7 @@ Now extract the downloaded files in the downloads folder or whatever folder you 
 For Icons:
     
     sudo cp -r icon_folder_name /usr/share/icons/
-
-Icons and Cursors will be in the same folder. So, you have to copy both icons & cursors into the same folder.
+Default system location for icons & cursors is the icons folder. So, you have to copy both icons & cursors into the icons folder.
 
 For Cursors:
 
