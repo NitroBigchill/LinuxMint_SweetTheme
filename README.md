@@ -90,9 +90,9 @@ To know your default shell:
 -> Change the icon as per your liking.
 
 
-
-
-![alacritty](https://github.com/user-attachments/assets/1393673b-effd-46ee-9fb2-c40d133894aa)
+## Theme_Screenshots
 ![LMDE](https://github.com/user-attachments/assets/42fdad51-1dbd-4aa9-83b9-493670e91fd3)
+![alacritty](https://github.com/user-attachments/assets/1393673b-effd-46ee-9fb2-c40d133894aa)
+
 
 
