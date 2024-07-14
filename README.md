@@ -69,6 +69,19 @@ To know your default shell:
     echo $SHELL
 
 
+## Panel_Configuration
+-> Right click on panel and turn on "panel edit mode".
+-> Then arrange the launchers and applets as per your liking.
+-> Open Extensions application and click download.
+-> Then search "Transparent panels" and click on the download icon.
+-> Click on manage, select the "Transparent panels" and click on the " + " icon at the bottom to install it.
+-> After it's installation click on the "configure" button and set the "Type of transparency".
+-> Turn off the "use current theme styles" option.
+
+## Application_Menu_Configuration
+-> Right click on the application menu (bottom left icon) and click on "configure".
+-> Change the icon as per your liking.
+
 
 
 
