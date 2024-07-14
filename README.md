@@ -90,6 +90,11 @@ To know your default shell:
 -> Change the icon as per your liking.
 
 
+## Checkout JamesDSP for Linux (Open-source sound effects for PipeWire and PulseAudio)
+
+Download Link - https://github.com/Audio4Linux/JDSP4Linux/releases/
+
+
 ## Theme_Screenshots
 ![LMDE](https://github.com/user-attachments/assets/42fdad51-1dbd-4aa9-83b9-493670e91fd3)
 ![alacritty](https://github.com/user-attachments/assets/1393673b-effd-46ee-9fb2-c40d133894aa)
