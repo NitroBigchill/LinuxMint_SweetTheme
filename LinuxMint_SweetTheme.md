@@ -33,7 +33,7 @@ For Desktop Themes:
 
     sudo cp -r theme_folder_name /usr/share/themes/
 
-Now, open "Themes" application and click "Advanced Settings". You can select the downloaded cursor, icons & desktop themes. Choose the downloaded themes for every option.
+Now, open "Themes" application and click "Advanced Settings". The themes we downloaded will appear along with the system themes. Choose your preferred theme and enjoy!!!!!!!
 
 For Wallpapers: https://github.com/whoisYoges/lwalpapers?tab=readme-ov-file#lwalpapers
 
