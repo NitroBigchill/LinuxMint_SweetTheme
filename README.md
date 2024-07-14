@@ -72,5 +72,7 @@ To know your default shell:
 
 
 
-![Theme_Screenshot](https://github.com/user-attachments/assets/1393673b-effd-46ee-9fb2-c40d133894aa)
+![alacritty](https://github.com/user-attachments/assets/1393673b-effd-46ee-9fb2-c40d133894aa)
+![LMDE](https://github.com/user-attachments/assets/42fdad51-1dbd-4aa9-83b9-493670e91fd3)
+
 
