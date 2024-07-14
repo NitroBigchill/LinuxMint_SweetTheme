@@ -1,7 +1,7 @@
 
 # LinuxMint_SweetTheme
 
-To change the "System_Theme" you need gtk_themes, Icons & Cursor Files. So, first we have to download these files. To download the files go to these below websites and download them:
+To change the "System_Theme" you need gtk_themes, Icons & Cursor Files. So, first we have to download these files. To download the files go to these below mentioned websites and download them:
 ## Icons
 
 BeautySolar Icons : https://www.gnome-look.org/p/2037657  ( File_Name: BeautySolar )
