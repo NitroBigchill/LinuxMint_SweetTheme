@@ -25,6 +25,8 @@ For Icons:
     
     sudo cp -r icon_folder_name /usr/share/icons/
 
+Icons and Cursors will be in the same folder. So, you have to copy both icons & cursors into the same folder.
+
 For Cursors:
 
     sudo cp -r cursor_folder_name /usr/share/icons/
